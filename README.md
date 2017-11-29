@@ -9,10 +9,10 @@ Basic Mongoose OS examples.
 * button_simple
 * ssl_webserver - needs a self-signed cert and key in the fs directory
     * mos.yml needs to be updated with wifi ssid and password
-* sleep_example - be careful this one can render your esp8266 difficult to flash.  Needs to be updated.
+* sleep_example  - on nodemcu press flash button to sleep and reset to wake up
 
 All examples except where noted were successfully tested on a NODEMCU esp8266 board.
 
-digitalhack
+digitalhack  
 November 2017
 
